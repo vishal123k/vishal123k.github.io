@@ -1,0 +1,51 @@
+.navbar a{
+    margin-left: 60px;
+    padding: 5px;
+    font-size: 30px ;
+    text-decoration: none;
+    font-family: sans-serif;
+    cursor: pointer;
+    color: red;
+    position: relative;
+    
+}
+.hello
+{
+    float: right;
+    padding-right: 170px;
+   
+   
+}
+/* .navbar{
+    margin-top: 20px;
+} */
+a:hover
+{
+    background-color: yellow;
+}
+.gap
+{
+    margin: auto;
+    padding-left: 250px;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 100px;
+    color: blueviolet;
+}
+.gap1
+{
+    margin: auto;
+    padding-left: 250px;
+    font-size: 20px;
+    margin-top: 10px;
+    color: #0a0808;
+}
+.gap2{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: #030202;
+    padding-bottom: 20px;
+}
+
+
